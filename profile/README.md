@@ -36,6 +36,7 @@ The suite is fully compatible with **macOS Ventura, Sonoma, and later versions**
 
 ---
 
+
 ## System Requirements
 
 - macOS 11.0 Big Sur or newer
